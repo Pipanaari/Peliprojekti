@@ -8,4 +8,4 @@ and perhaps find some use for the trash with **use**.
 
 Some trash is hidden away and is only accessable with the trash you own.
 
-Kaapo Tamm, Mihail Nedashkovsky, Ohto Tyrväinen
+Kaapo Tamm, Mihail Nedashkovsky, Ohto Tyrväinen,
